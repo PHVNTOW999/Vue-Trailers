@@ -1,0 +1,170 @@
+{
+  "trailerList": [
+    {
+      "id": 0,
+      "name": "Harry Potter And The Deathly Hallows Part 2",
+      "desc": "Foul-mouthed mutant mercenary Wade Wilson (a.k.a. Deadpool) assembles a team of fellow mutant rogues to protect a young boy with supernatural abilities from the brutal, time-traveling cyborg Cable.",
+      "genresID": [0, 2],
+      "logo": "/img/logo.602c6baa.jpg",
+      "videoPath": "https://www.youtube.com/embed/mObK5XD8udk",
+      "actorsID": [0, 4],
+      "directorsID": [0, 3]
+    },
+    {
+      "id": 1,
+      "name": "Deadpool 2",
+      "desc": "Foul-mouthed mutant mercenary Wade Wilson (a.k.a. Deadpool) assembles a team of fellow mutant rogues to protect a young boy with supernatural abilities from the brutal, time-traveling cyborg Cable.",
+      "genresID": [2, 1],
+      "logo": "/img/logo.841c8b55.jpg",
+      "videoPath": "https://www.youtube.com/embed/D86RtevtfrA",
+      "actorsID": [0, 1, 3, 4, 5, 6],
+      "directorsID": [2]
+    },
+    {
+      "id": 2,
+      "name": "Avengers Infinity War",
+      "desc": "Foul-mouthed mutant mercenary Wade Wilson (a.k.a. Deadpool) assembles a team of fellow mutant rogues to protect a young boy with supernatural abilities from the brutal, time-traveling cyborg Cable.",
+      "genresID": [2, 3],
+      "logo": "/img/logo.47c488d0.jpg",
+      "videoPath": "https://www.youtube.com/embed/6ZfuNTqbHE8",
+      "actorsID": [0, 1, 2, 5, 6, 7],
+      "directorsID": [2, 3]
+    },
+    {
+      "id": 3,
+      "name": "Your Name",
+      "desc": "The movie centers on the young girl, Mitsuha Miyamizu, or Miki, as she longs to be a boy in Tokyo in her next life. In order to make this happen, she switches bodies with a boy named Taki Tachibana The switch has benefits for both, as Taki manages to get a girlfriend and Miki manages to become popular in school. However, the body switch comes to an abrupt end. Taki, wanting to switch back, goes on to find Miki in real life. However, he has to rely on his memories to find her hometown. When he eventually finds her town, he realizes it was destroyed by a comet three years ago. This is when he realizes that their timeline had a three-year difference. Taki decides to go to a scared shrine in order to reconnect their bodies so that he can warn Miki about the comet and save her from death. When he reunites with her again, he realizes that she is in love with him. Reciprocating her feelings, Taki tries to warn the town people to evacuate. However, he and Miki begin to separate once again, due to their timelines, and Miki wakes up in his own life, unable to remember anything. Five years later, Taki and Miki are on a train. Despite not knowing each other due to the erasure of their memories, they are drawn to each other. However, when they visit the sacred shrine together they become reconnected and remember everything. The movie ends with them living happily together. ",
+      "genresID": [3],
+      "logo": "/img/logo.449351ca.jpg",
+      "videoPath": "https://www.youtube.com/embed/xU47nhruN-Q",
+      "actorsID": [0, 2, 3, 5, 6, 7],
+      "directorsID": [3]
+    },
+    {
+      "id": 4,
+      "name": "Django Unchained",
+      "desc": "Foul-mouthed mutant mercenary Wade Wilson (a.k.a. Deadpool) assembles a team of fellow mutant rogues to protect a young boy with supernatural abilities from the brutal, time-traveling cyborg Cable.",
+      "genresID": [2, 1],
+      "logo": "/img/logo.238cd55a.jpg",
+      "videoPath": "https://www.youtube.com/embed/0fUCuvNlOCg",
+      "actorsID": [0, 1, 2, 4, 5, 6, 7],
+      "directorsID": [3, 1]
+    },
+    {
+      "id": 5,
+      "name": "Venom",
+      "desc": "Foul-mouthed mutant mercenary Wade Wilson (a.k.a. Deadpool) assembles a team of fellow mutant rogues to protect a young boy with supernatural abilities from the brutal, time-traveling cyborg Cable.",
+      "genresID": [0, 2, 1],
+      "logo": "/img/logo.4dea94e1.jpg",
+      "videoPath": "/img/logo.4dea94e1.jpg",
+      "actorsID": [2, 3, 4, 7],
+      "directorsID": [0, 1]
+    },
+    {
+      "id": 6,
+      "name": "Venom 2",
+      "desc": "Foul-mouthed mutant mercenary Wade Wilson (a.k.a. Deadpool) assembles a team of fellow mutant rogues to protect a young boy with supernatural abilities from the brutal, time-traveling cyborg Cable.",
+      "genresID": [0, 3, 2],
+      "logo": "/img/logo.b23cf99e.jpg",
+      "videoPath": "https://www.youtube.com/embed/0fUCuvNlOCg",
+      "actorsID": [3],
+      "directorsID": [2]
+    },
+    {
+      "id": 7,
+      "name": "Resident Evil Raccoon City",
+      "desc": "Foul-mouthed mutant mercenary Wade Wilson (a.k.a. Deadpool) assembles a team of fellow mutant rogues to protect a young boy with supernatural abilities from the brutal, time-traveling cyborg Cable.",
+      "genresID": [0, 1, 2],
+      "logo": "/img/logo.b9e825f2.jpg",
+      "videoPath": "https://www.youtube.com/embed/0fUCuvNlOCg",
+      "actorsID": [1, 6],
+      "directorsID": [0]
+    }
+  ],
+  "genres": [
+    {
+      "id": 0,
+      "name": "Horror",
+      "trailerList": [0, 2, 5, 6, 7]
+    },
+    {
+      "id": 1,
+      "name": "Thriller",
+      "trailerList": [1, 4, 5, 7]
+    },
+    {
+      "id": 2,
+      "name": "Adventure",
+      "trailerList": [0, 1, 2, 4, 5, 6, 7]
+    },
+    {
+      "id": 3,
+      "name": "Comedy",
+      "trailerList": [2, 3, 6]
+    }
+  ],
+  "actors": [
+    {
+      "id": 0,
+      "name": "Tom Cruise",
+      "trailerList": [3, 4, 2]
+    },
+    {
+      "id": 1,
+      "name": "Leonardo Dicaprio",
+      "trailerList": [1, 2, 7, 4, 7]
+    },
+    {
+      "id": 2,
+      "name": "Keanu Reeves",
+      "trailerList": [4, 5]
+    },
+    {
+      "id": 3,
+      "name": "William Defo",
+      "trailerList": [3, 5, 6]
+    },
+    {
+      "id": 4,
+      "name": "Tobey Maguire",
+      "trailerList": [0, 5, 4, 1, 7, 2]
+    },
+    {
+      "id": 5,
+      "name": "Zendaya Maree",
+      "trailerList": [3, 4]
+    },
+    {
+      "id": 6,
+      "name": "Anya Taylor-Joy",
+      "trailerList": [1, 2, 7]
+    },
+    {
+      "id": 7,
+      "name": "Maisie Williams",
+      "trailerList": [5]
+    }
+  ],
+  "directors": [
+    {
+      "id": 0,
+      "name": "Quentin Tarantino",
+      "trailerList": [0, 5, 7]
+    },
+    {
+      "id": 1,
+      "name": "Steven Spielberg",
+      "trailerList": [1, 4, 5]
+    },
+    {
+      "id": 2,
+      "name": "Jorj Lucas",
+      "trailerList": [1, 2, 6]
+    },
+    {
+      "id": 3,
+      "name": "James Cameron",
+      "trailerList": [0, 2, 3, 4]
+    }
+  ]
+}
